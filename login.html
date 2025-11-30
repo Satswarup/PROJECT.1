@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Login - MMCOE Digital Library</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="theme">
+  <header class="navbar glass">
+    <div class="logo">📚 MMCOE Library</div>
+    <nav>
+      <a href="index.html" class="nav-link">Home</a>
+      <a href="login.html" class="nav-link active">Login</a>
+      <a href="catalog.html" class="nav-link">Catalog</a>
+    </nav>
+  </header>
+
+  <section class="container center">
+    <div class="card login-card hover-up">
+      <h2>Login to Continue</h2>
+      <p class="subtle">Use your PRN in the format: mmcoe1234. Password is last 3 digits: 234.</p>
+      <form id="loginForm" class="form">
+        <label for="prn">PRN</label>
+        <input type="text" id="prn" name="prn" placeholder="mmcoe1234" required>
+
+        <label for="password">Password</label>
+        <input type="password" id="password" name="password" placeholder="Last 3 digits of PRN" required>
+
+        <button type="submit" class="btn btn-primary">Login</button>
+        <p id="loginMessage" class="message"></p>
+      </form>
+    </div>
+  </section>
+
+  <footer class="footer glass">
+    <p>© 2025 MMCOE Digital Library</p>
+  </footer>
+
+  <script src="script.js" defer></script>
+</body>
+</html>
