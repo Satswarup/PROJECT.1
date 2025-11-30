@@ -1,0 +1,362 @@
+[
+  {
+    "title": "Data Structures and Algorithms in Java",
+    "author": "Robert Lafore",
+    "year": 2017,
+    "department": "Computer Engineering",
+    "description": "Foundational DSA concepts with practical Java implementations.",
+    "keywords": ["DSA", "Java", "algorithms"],
+    "link": "https://www.wiley.com/en-us/Data+Structures+and+Algorithms+in+Java%2C+2nd+Edition-p-9780672324536"
+  },
+  {
+    "title": "Operating System Concepts",
+    "author": "Silberschatz, Galvin",
+    "year": 2018,
+    "department": "Computer Engineering",
+    "description": "Process management, memory, file systems, and concurrency.",
+    "keywords": ["OS", "process", "threads"],
+    "link": "http://www.os-book.com/index.html"
+  },
+  {
+    "title": "Computer Networks",
+    "author": "Andrew S. Tanenbaum",
+    "year": 2011,
+    "department": "Computer Engineering",
+    "description": "Protocols, network layers, and performance.",
+    "keywords": ["networks", "TCP/IP"],
+    "link": "https://archive.org/details/computernetworks02tane"
+  },
+  {
+    "title": "Database System Concepts",
+    "author": "Silberschatz, Korth",
+    "year": 2019,
+    "department": "Computer Engineering",
+    "description": "Relational models, SQL, transactions, and indexing.",
+    "keywords": ["database", "SQL"],
+    "link": "http://db-book.com/db8/"
+  },
+  {
+    "title": "Introduction to Algorithms",
+    "author": "Cormen et al.",
+    "year": 2009,
+    "department": "Computer Engineering",
+    "description": "Comprehensive algorithms with proofs and applications.",
+    "keywords": ["CLRS", "algorithms"],
+    "link": "https://github.com/techyosemite/Algorithms"
+  },
+  {
+    "title": "Modern Software Engineering",
+    "author": "David Farley",
+    "year": 2021,
+    "department": "Computer Engineering",
+    "description": "Principles for building reliable, evolvable systems.",
+    "keywords": ["software", "devops"],
+    "link": "https://modernsoftwareengineering.com/"
+  },
+  {
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "year": 2008,
+    "department": "Computer Engineering",
+    "description": "Practices for writing readable and maintainable code.",
+    "keywords": ["clean code", "refactoring"],
+    "link": "https://github.com/Gatjuat-Wicteat-Riek/clean-code-book"
+  },
+  {
+    "title": "Design Patterns",
+    "author": "Gamma et al.",
+    "year": 1994,
+    "department": "Computer Engineering",
+    "description": "Reusable solutions to common design problems.",
+    "keywords": ["patterns", "architecture"],
+    "link": "https://en.wikipedia.org/wiki/Design_Patterns"
+  },
+  {
+    "title": "Digital Signal Processing",
+    "author": "Proakis & Manolakis",
+    "year": 2007,
+    "department": "Electrical Engineering",
+    "description": "DSP fundamentals and applications.",
+    "keywords": ["DSP", "signals"],
+    "link": "https://ia801301.us.archive.org/23/items/GuideToDigitalSignalProcessing/Guide%20To%20Digital%20Signal%20Processing.pdf"
+  },
+  {
+    "title": "Power System Analysis",
+    "author": "Hadi Saadat",
+    "year": 2010,
+    "department": "Electrical Engineering",
+    "description": "Modeling and analysis of power systems.",
+    "keywords": ["power", "grid"],
+    "link": "https://saadat.us/software/power-system-analysis-with-powerworld-and-matlab-examples/"
+  },
+  {
+    "title": "Electric Machines and Drives",
+    "author": "Fitzgerald et al.",
+    "year": 2003,
+    "department": "Electrical Engineering",
+    "description": "AC/DC machines, drives, and control.",
+    "keywords": ["machines", "drives"],
+    "link": "https://www.amazon.com/Electric-Machinery-Fitzgerald-Kingsley-Umans/dp/0073529544"
+  },
+  {
+    "title": "Fundamentals of Electric Circuits",
+    "author": "Alexander & Sadiku",
+    "year": 2013,
+    "department": "Electrical Engineering",
+    "description": "Circuit analysis techniques and applications.",
+    "keywords": ["circuits", "Kirchhoff"],
+    "link": "https://www.mheducation.com/highered/product/fundamentals-electric-circuits-alexander-sadiku/M9781260212347.html"
+  },
+  {
+    "title": "Power Electronics",
+    "author": "Muhammad H. Rashid",
+    "year": 2014,
+    "department": "Electrical Engineering",
+    "description": "Converters, inverters, and control strategies.",
+    "keywords": ["electronics", "converters"],
+    "link": "https://www.pearson.com/us/higher-education/product/rashid-power-electronics-circuits-devices-and-applications-4th-edition/9780133125902.html"
+  },
+  {
+    "title": "Electrical Measurements",
+    "author": "Golding & Widdis",
+    "year": 1999,
+    "department": "Electrical Engineering",
+    "description": "Measurement techniques, instrumentation, and accuracy.",
+    "keywords": ["measurement", "instrumentation"],
+    "link": "https://archive.org/details/in.ernet.dli.2015.19585"
+  },
+  {
+    "title": "Switchgear and Protection",
+    "author": "Sunil S. Rao",
+    "year": 2007,
+    "department": "Electrical Engineering",
+    "description": "Protection schemes and switchgear design.",
+    "keywords": ["protection", "relay"],
+    "link": "https://www.khannapublishers.in/products/switchgear-and-protection-by-sunil-s-rao-1"
+  },
+  {
+    "title": "Control Systems Engineering",
+    "author": "Norman Nise",
+    "year": 2015,
+    "department": "Electrical Engineering",
+    "description": "Modeling, feedback, and stability analysis.",
+    "keywords": ["control", "feedback"],
+    "link": "https://www.wiley.com/en-us/Control+Systems+Engineering%2C+7th+Edition-p-9781119747967"
+  },
+  {
+    "title": "Web Technologies",
+    "author": "Jeffrey C. Jackson",
+    "year": 2007,
+    "department": "Information Technology",
+    "description": "HTTP, HTML/CSS/JS, and web architecture.",
+    "keywords": ["web", "HTTP"],
+    "link": "https://www.pearson.com/us/higher-education/program/Jackson-Web-Technologies-A-Computer-Science-Perspective/PGM93114.html"
+  },
+  {
+    "title": "Full-Stack Development",
+    "author": "Chris Northwood",
+    "year": 2018,
+    "department": "Information Technology",
+    "description": "Practical full-stack patterns and workflows.",
+    "keywords": ["full-stack", "patterns"],
+    "link": "https://www.amazon.com/The-Full-Stack-Developer-Practical-Patterns/dp/1484238510"
+  },
+  {
+    "title": "Cloud Computing",
+    "author": "Rajkumar Buyya",
+    "year": 2013,
+    "department": "Information Technology",
+    "description": "Cloud models, virtualization, and resource management.",
+    "keywords": ["cloud", "virtualization"],
+    "link": "https://www.wiley.com/en-us/Cloud+Computing%3A+Principles+and+Paradigms-p-9780470887998"
+  },
+  {
+    "title": "Computer Security",
+    "author": "Matt Bishop",
+    "year": 2003,
+    "department": "Information Technology",
+    "description": "Security principles, policies, and mechanisms.",
+    "keywords": ["security", "crypto"],
+    "link": "https://archive.org/details/introductiontoco0000bish"
+  },
+  {
+    "title": "Distributed Systems",
+    "author": "Tanenbaum & van Steen",
+    "year": 2007,
+    "department": "Information Technology",
+    "description": "Architecture, consistency, and fault tolerance.",
+    "keywords": ["distributed", "consistency"],
+    "link": "https://www.distributed-systems.net/index.php/books/distributed-systems-3rd-edition-2017/"
+  },
+  {
+    "title": "API Design Patterns",
+    "author": "JJ Geewax",
+    "year": 2021,
+    "department": "Information Technology",
+    "description": "Designing robust, evolvable APIs.",
+    "keywords": ["API", "design"],
+    "link": "https://www.apidesignpatterns.com/"
+  },
+  {
+    "title": "Microservices",
+    "author": "Sam Newman",
+    "year": 2015,
+    "department": "Information Technology",
+    "description": "Microservice architecture and operations.",
+    "keywords": ["microservices", "ops"],
+    "link": "https://samnewman.io/books/microservices/"
+  },
+  {
+    "title": "Site Reliability Engineering",
+    "author": "Beyer et al.",
+    "year": 2016,
+    "department": "Information Technology",
+    "description": "SRE practices for reliable systems.",
+    "keywords": ["SRE", "reliability"],
+    "link": "https://sre.google/sre-book/table-of-contents/"
+  },
+  {
+    "title": "Introduction to AI",
+    "author": "Stuart Russell & Peter Norvig",
+    "year": 2010,
+    "department": "AIDS",
+    "description": "AI fundamentals and problem-solving approaches.",
+    "keywords": ["AI", "agents"],
+    "link": "http://aima.cs.berkeley.edu/"
+  },
+  {
+    "title": "Pattern Recognition and ML",
+    "author": "Christopher Bishop",
+    "year": 2006,
+    "department": "AIDS",
+    "description": "Probabilistic ML and pattern recognition.",
+    "keywords": ["ML", "Bayesian"],
+    "link": "http://research.microsoft.com/en-us/um/people/cmbishop/prml/"
+  },
+  {
+    "title": "Deep Learning",
+    "author": "Goodfellow, Bengio, Courville",
+    "year": 2016,
+    "department": "AIDS",
+    "description": "Neural networks and deep learning theory.",
+    "keywords": ["DL", "neural nets"],
+    "link": "http://www.deeplearningbook.org/"
+  },
+  {
+    "title": "Hands-On ML with Scikit-Learn & TF",
+    "author": "Aurélien Géron",
+    "year": 2019,
+    "department": "AIDS",
+    "description": "Practical ML pipelines and deep learning.",
+    "keywords": ["TensorFlow", "sklearn"],
+    "link": "https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/"
+  },
+  {
+    "title": "Data Mining Concepts and Techniques",
+    "author": "Han, Kamber, Pei",
+    "year": 2011,
+    "department": "AIDS",
+    "description": "Clustering, classification, and mining patterns.",
+    "keywords": ["data mining", "patterns"],
+    "link": "https://github.com/Jimachin/Data-Mining-Concepts-and-Techniques"
+  },
+  {
+    "title": "Machine Learning Engineering",
+    "author": "Andriy Burkov",
+    "year": 2020,
+    "department": "AIDS",
+    "description": "Production ML systems and best practices.",
+    "keywords": ["MLOps", "production"],
+    "link": "https://www.oreilly.com/library/view/the-hundred-page-machine/9780578768721/"
+  },
+  {
+    "title": "Probabilistic Graphical Models",
+    "author": "Daphne Koller",
+    "year": 2009,
+    "department": "AIDS",
+    "description": "Graphical models and inference.",
+    "keywords": ["PGM", "inference"],
+    "link": "http://pgm.stanford.edu/"
+  },
+  {
+    "title": "Reinforcement Learning",
+    "author": "Sutton & Barto",
+    "year": 2018,
+    "department": "AIDS",
+    "description": "RL methods and applications.",
+    "keywords": ["RL", "policy"],
+    "link": "http://incompleteideas.net/book/the-book-2nd.html"
+  },
+  {
+    "title": "Engineering Mechanics: Statics",
+    "author": "Hibbeler",
+    "year": 2016,
+    "department": "Mechanical Engineering",
+    "description": "Statics principles and problem-solving.",
+    "keywords": ["statics", "forces"],
+    "link": "https://www.pearson.com/us/higher-education/product/hibbeler-engineering-mechanics-statics-14th-edition/9780133918922.html"
+  },
+  {
+    "title": "Fluid Mechanics",
+    "author": "Fox, McDonald",
+    "year": 2010,
+    "department": "Mechanical Engineering",
+    "description": "Fluid behavior and applications.",
+    "keywords": ["fluids", "flow"],
+    "link": "https://www.wiley.com/en-us/Introduction+to+Fluid+Mechanics%2C+8th+Edition-p-9781118116135"
+  },
+  {
+    "title": "Thermodynamics",
+    "author": "Cengel & Boles",
+    "year": 2014,
+    "department": "Mechanical Engineering",
+    "description": "Energy, entropy, and cycles.",
+    "keywords": ["thermo", "entropy"],
+    "link": "https://www.mheducation.com/highered/product/thermodynamics-engineering-approach-cengel-boles/9781260461877.html"
+  },
+  {
+    "title": "Strength of Materials",
+    "author": "Timoshenko",
+    "year": 2000,
+    "department": "Mechanical Engineering",
+    "description": "Stress-strain analysis and materials.",
+    "keywords": ["materials", "stress"],
+    "link": "https://www.amazon.com/Strength-Materials-Part-Elementary-Advanced/dp/0894644400"
+  },
+  {
+    "title": "Heat Transfer",
+    "author": "J.P. Holman",
+    "year": 2002,
+    "department": "Mechanical Engineering",
+    "description": "Conduction, convection, and radiation.",
+    "keywords": ["heat", "conduction"],
+    "link": "https://www.mheducation.com/highered/product/heat-transfer-10th-edition-holman/9780073529363.html"
+  },
+  {
+    "title": "Manufacturing Processes",
+    "author": "Degarmo et al.",
+    "year": 2011,
+    "department": "Mechanical Engineering",
+    "description": "Processes and systems in manufacturing.",
+    "keywords": ["manufacturing", "process"],
+    "link": "https://www.wiley.com/en-us/Materials+and+Processes+in+Manufacturing%2C+11th+Edition-p-9781119747202"
+  },
+  {
+    "title": "Mechanical Vibrations",
+    "author": "S.S. Rao",
+    "year": 2010,
+    "department": "Mechanical Engineering",
+    "description": "Vibration analysis and control.",
+    "keywords": ["vibration", "modal"],
+    "link": "https://www.pearson.com/us/higher-education/program/Rao-Mechanical-Vibrations-6th-Edition/PGM24185.html"
+  },
+  {
+    "title": "Machine Design",
+    "author": "Bhandari",
+    "year": 2010,
+    "department": "Mechanical Engineering",
+    "description": "Design principles and components.",
+    "keywords": ["design", "machines"],
+    "link": "https://www.mheducation.co.in/design-of-machine-elements-9780070681798"
+  }
+]
