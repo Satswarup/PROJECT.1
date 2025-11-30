@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Catalog - MMCOE Digital Library</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="theme">
+  <header class="navbar glass">
+    <div class="logo">📚 MMCOE Library</div>
+    <nav>
+      <a href="index.html" class="nav-link">Home</a>
+      <a href="login.html" class="nav-link">Login</a>
+      <a href="catalog.html" class="nav-link active">Catalog</a>
+      <button id="logoutBtn" class="btn btn-tertiary small">Logout</button>
+    </nav>
+  </header>
+
+  <section class="container">
+    <div class="controls card hover-up">
+      <div class="control-row">
+        <div class="control-group">
+          <label for="searchInput">Search</label>
+          <input type="text" id="searchInput" placeholder="Search by title, author, keyword...">
+        </div>
+        <div class="control-group">
+          <label for="departmentSelect">Department</label>
+          <select id="departmentSelect">
+            <option value="all">All Departments</option>
+            <option value="Computer Engineering">Computer Engineering</option>
+            <option value="Information Technology">Information Technology</option>
+            <option value="Electrical Engineering">Electrical Engineering</option>
+            <option value="AIDS">AIDS</option>
+            <option value="Mechanical Engineering">Mechanical Engineering</option>
+          </select>
+        </div>
+        <div class="control-group">
+          <label>&nbsp;</label>
+          <button id="clearFilters" class="btn btn-secondary">Clear Filters</button>
+        </div>
+      </div>
+      <p class="subtle" id="resultCount">Loading books...</p>
+    </div>
+
+    <div id="booksGrid" class="grid"></div>
+  </section>
+
+  <footer class="footer glass">
+    <p>© 2025 MMCOE Digital Library</p>
+  </footer>
+
+  <script src="script.js" defer></script>
+</body>
+</html>
